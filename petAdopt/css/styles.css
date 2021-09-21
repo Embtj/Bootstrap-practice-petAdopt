@@ -1,0 +1,111 @@
+
+h1 {
+  font-size: 3.5em;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+h2 {
+  font-size: 2.5em;
+  line-height: 1.5;
+  font-weight: bold;
+}
+
+#title {
+  background-color: #BEE5D3;
+  color: #8B5E83;
+}
+
+.container-fluid {
+  padding: 3% 15%;
+}
+
+/* navigation bar */
+
+.navbar {
+  padding: 0 0 4.5em;
+}
+
+.navbar-brand {
+  font-size: 2.5em;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.navbar-light .navbar-brand {
+  color: #8B5E83;
+}
+
+.navbar-light .navbar-brand:hover {
+  color: #3B5360;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: #8B5E83;
+}
+
+
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #3B5360;
+}
+
+
+.download-button {
+  margin: 5% 3% 5% 0;
+}
+
+.title-image {
+  width: 80%;
+}
+
+/* Features */
+
+#features {
+  padding: 5% 10%;
+}
+
+.feature-box {
+  text-align: center;
+  padding: 5%;
+}
+
+.icon {
+  color: #D6B0B1;
+  margin-bottom: 1em;
+}
+
+.icon:hover {
+  color: #8B5E83;
+}
+
+/* shelters */
+
+#shelters {
+  text-align: center;
+  background-color: #BEE5D3;
+}
+
+.shelter-image {
+  width: 30%;
+  margin: 20px;
+}
+
+.carousel-item {
+  padding: 5% 10%;
+}
+
+
+.copyright {
+  text-align: center;
+  color: #909090;
+  font-size: 0.75em;
+  padding: 20px 0;
+}
